@@ -2,6 +2,10 @@
 
 GitHub Search is a command-line tool that allows users to search for GitHub repositories based on a keyword. The tool uses the GitHub API to fetch and display repository URLs that match the search criteria.
 
+![Screenshot from 2024-04-18 21-34-13](https://github.com/the-universal-linux-society/GitHub-Search/assets/161962528/9d740a90-2cbc-48ca-885d-b1695f4fb382)
+
+
+
 ## Features
 
 - **Keyword Search**: Users can enter a keyword to search across GitHub repositories.
