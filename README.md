@@ -33,7 +33,7 @@ python GitHubSearch.py
 ```
 
 - **EXAMPLE**
--Enter 'search' to search for GitHub repositories or 'exit' to quit: search
+Type 'search' to search for GitHub repositories or 'exit' to quit: search
 -Enter a keyword to search for in GitHub repositories: machine learning
 -Searching...
 -Matching GitHub Repository URLs:
